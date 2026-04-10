@@ -5,7 +5,7 @@
 :eyeglasses: **fan de la cultura japonesa**
 
 ## Contacto
-
+<!--START_SECTION:activity-->
 name: Update README
 on:
   schedule:
@@ -28,3 +28,4 @@ jobs:
           MAX_LINES: 10
           COMMIT_NAME: GitHub Activity Readme
           COMMIT_EMAIL: github-actions[bot]@users.noreply.github.com
+<!--END_SECTION:activity-->
