@@ -5,6 +5,6 @@
 :eyeglasses: **fan de la cultura japonesa**
 
 ## Contacto
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:activity-->
